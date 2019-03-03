@@ -1,0 +1,17 @@
+body {
+  font-family: 'Space Mono', monospace;
+  text-align: center;
+}
+
+.band-logo {
+  width: 30%;
+}
+
+.title {
+  font-family: 'BioRhyme', serif;
+}
+
+.verse {
+  padding: 2% 37% 3% 37%;
+  line-height: 2;
+}
